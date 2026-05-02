@@ -2,7 +2,7 @@
 
 A command-line Sudoku game developed in C++. This project demonstrates core programming concepts such as recursion, backtracking, randomization, and user interaction through a console-based interface.
 
-## Features
+## Features 
 
 - Random Sudoku puzzle generation
 - Backtracking algorithm for solving puzzles
