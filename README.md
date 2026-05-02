@@ -1,21 +1,21 @@
-Sudoku CLI Game (C++)
+🧩 Sudoku CLI Game (C++)
 
 A fully functional command-line Sudoku game developed in C++. This project demonstrates core programming concepts such as recursion, backtracking, randomization, and user interaction through a console-based interface.
 
-Features
- Random Sudoku puzzle generation
- Backtracking algorithm for solving puzzles
- Multiple difficulty levels:
+🚀 Features
+✅ Random Sudoku puzzle generation
+✅ Backtracking algorithm for solving puzzles
+✅ Multiple difficulty levels:
 Easy
 Medium
 Hard
 Expert
 Master
- Mistake tracking system
- Option to reveal the solution
- Interactive CLI gameplay
- Learning mode (rules + instructions)
-Technologies Used
+✅ Mistake tracking system
+✅ Option to reveal the solution
+✅ Interactive CLI gameplay
+✅ Learning mode (rules + instructions)
+🛠️ Technologies Used
 C++
 Standard Libraries:
 <iostream>
@@ -43,15 +43,15 @@ If it matches the solution
 Game ends when:
 Player exceeds mistake limit
 Player chooses to reveal solution
-How to Run
-Compile
+🎮 How to Run
+🔧 Compile
 g++ sudoku.cpp -o sudoku
-Run
+▶️ Run
 ./sudoku
 
-Recommended: Run in VS Code terminal or any C++ supported compiler.
+💡 Recommended: Run in VS Code terminal or any C++ supported compiler.
 
-Gameplay Instructions
+📋 Gameplay Instructions
 Choose an option from the menu:
 Play Game
 Learn Game
@@ -63,28 +63,28 @@ Column number (1–9)
 Value (1–9)
 Avoid mistakes — limited attempts allowed
 Enter Y anytime to reveal the solution
-Sudoku Rules
+📚 Sudoku Rules
 Each row must contain numbers 1–9 without repetition
 Each column must contain numbers 1–9 without repetition
 Each 3×3 grid must contain numbers 1–9 without repetition
-Project Structure
+📂 Project Structure
 SUDOKU PROJECT/
 │── sudoku(run in VS code).cpp
 │── CP PROJECT SUDOKU.pdf
 │── PROJECT VIDEO.mp4
-Limitations
+⚠️ Limitations
 Uses windows.h → may not compile on Linux/Mac without modification
 UI is console-based (no GUI)
 Basic input validation
-Future Improvements
+💡 Future Improvements
 Add graphical interface (GUI)
 Add timer & scoring system
 Improve input validation
 Cross-platform compatibility
 Save/load game feature
-Author
+👨‍💻 Author
 
-Khubaib Muhamamd
+Your Name Here
 
 ⭐ Show Your Support
 
